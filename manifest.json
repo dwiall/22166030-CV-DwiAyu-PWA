@@ -1,0 +1,22 @@
+{
+  "name": "Portofolio | Dwi",
+  "short_name": "Dwi Ayu Lestari",
+  "description": "Portfolio and Professional Profile",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#FDB0C0",
+  "theme_color": "#ffff",
+  "icons": [
+    {
+      "src": "/dist/img/apk-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/dist/img/apk-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
